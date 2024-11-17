@@ -1,4 +1,4 @@
-Number_of_Worst=input("Please enter the number of worst games you'd like to see. (It should be less than 6 )");
+Number_of_Worst=input("Please enter the number of worst gaming platforms you'd like to see. (It should be less than 6 )");
 if Number_of_Worst==1
     numbersl=zeros(1,1);
 for i = 1:length(NewPlatform_names)
