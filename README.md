@@ -35,8 +35,11 @@ To run this project, ensure you have the following installed:
    - The scripts generate visualizations and statistical outputs to help understand trends in video game popularity.
 
 ## Notes
-- Make sure the `Optimised_VideoGames.mat` file is in the same directory as the scripts, as it contains the required data for analysis.
+- Make sure the `Optimised_VideoGames.mat` and `videogamesStats.mat` files are in the same directory as the scripts, as they contain the required data for analysis.
 - If you encounter any errors, ensure that all dependencies and toolboxes are installed.
 
 ## Contact
 For questions or issues, please reach out to me.
+
+
+
