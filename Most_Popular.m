@@ -1,4 +1,4 @@
-Number_of_Best=input("Please enter the number of best games you'd like to see. (It should be less than 6)");
+Number_of_Best=input("Please enter the number of best gaming platforms you'd like to see. (It should be less than 6)");
 if Number_of_Best==1
     numbers=zeros(1,1);
     for i = 1:length(NewPlatform_names)
